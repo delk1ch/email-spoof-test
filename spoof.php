@@ -1,10 +1,10 @@
 <?php
     
     #SET ME
-    $to = '';
-    $from = '';
-    $body = 'This is an email spoofing test. Find out more at: https://github.com/kristovatlas/email-spoof-test';
-    $subject = 'Email spoof test attempt via spoof.php';
+    $to = 'delk1ch99@gmail.com';
+    $from = 'delk1ch@staff.its.utexas.edu';
+    $body = 'BABO NACIJE';
+    $subject = 'DJE CE KO?';
     
     $headers = getHeaders($from);
     
